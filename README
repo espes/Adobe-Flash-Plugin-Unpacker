@@ -1,0 +1,3 @@
+This is a simple python script to extract the custom archive format seen in "Flash Player.plugin.lzma" in packages of Adobe Flash Player for Mac OS X.
+
+It's written in Python 3.
